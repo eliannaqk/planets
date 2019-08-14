@@ -2,4 +2,5 @@
 hello how are you doing
 
 it is raining
+now it is wednesday
 	
